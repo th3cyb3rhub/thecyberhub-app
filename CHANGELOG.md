@@ -1,3 +1,12 @@
+## [1.7.14](https://github.com/thecyberworld/thecyberhub-app/compare/v1.7.13...v1.7.14) (2024-08-27)
+
+
+### Bug Fixes
+
+* package.json & package-lock.json to reduce vulnerabilities ([#93](https://github.com/thecyberworld/thecyberhub-app/issues/93)) ([d371698](https://github.com/thecyberworld/thecyberhub-app/commit/d371698673d719bb22ba33470e544c4f7bcf58f4))
+
+
+
 ## [1.7.13](https://github.com/thecyberworld/thecyberhub-app/compare/v1.7.12...v1.7.13) (2023-10-15)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * package.json to reduce vulnerabilities ([#70](https://github.com/thecyberworld/thecyberhub-app/issues/70)) ([df121a8](https://github.com/thecyberworld/thecyberhub-app/commit/df121a8ce10cdd9d36f07903c9b332b52b92511e))
-
-
-
-## [1.7.9](https://github.com/thecyberworld/thecyberhub-app/compare/v1.7.8...v1.7.9) (2023-01-13)
-
-
-### Bug Fixes
-
-* upgrade expo-status-bar from 1.4.0 to 1.4.2 ([#63](https://github.com/thecyberworld/thecyberhub-app/issues/63)) ([c2b30a9](https://github.com/thecyberworld/thecyberhub-app/commit/c2b30a967681fe11f226373ca8a4c4a12d5d3d38))
 
 
 
